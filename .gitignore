@@ -1,0 +1,12 @@
+# 工作目录 - 临时文件
+work/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# 环境文件
+.env
+.env.local
